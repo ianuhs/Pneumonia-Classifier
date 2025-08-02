@@ -1,2 +1,1 @@
-# Pneumonia Classifier
-Initial setup
+This is a deep learning project that fine-tunes a ResNet18 model to detect pneumonia from chest X-ray images. It includes custom data loading, preprocessing, model training with metric tracking, and evaluation using validation and test accuracy. The project focuses on optimizing training performance, visualizing learning curves, and improving generalization through better data handling and monitoring.
