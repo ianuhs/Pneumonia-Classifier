@@ -11,14 +11,13 @@ This project helped me explore:
 - Understanding training/validation loss and accuracy curves
 
 After each training and evaluation session, I analyzed the performance to see what worked and what didn’t, and made adjustments accordingly. Below is a graph of how the models improved over time. 
+<img width="988" height="584" alt="Screenshot 2025-08-05 at 9 02 04 PM" src="https://github.com/user-attachments/assets/07f40fa7-54b6-4511-b626-f56025f6e2d6" />
+<img width="985" height="581" alt="Screenshot 2025-08-05 at 9 02 47 PM" src="https://github.com/user-attachments/assets/822b1748-f70e-4ecb-b36d-12b529121c30" />
 
-<img width="838" height="496" alt="Screenshot 2025-08-05 at 2 21 10 AM" src="https://github.com/user-attachments/assets/c4d43909-6850-4f11-be57-6a15f69e2202" />
 
-Here are some performance metrics from the latest model, Model 4.
-
-<img width="995" height="459" alt="Screenshot 2025-08-05 at 2 36 07 AM" src="https://github.com/user-attachments/assets/8ed8a5c5-7236-45a7-a904-52328bc8347b" />
-
-<img width="928" height="829" alt="Screenshot 2025-08-05 at 2 38 26 AM" src="https://github.com/user-attachments/assets/f3be8c4d-0253-45e7-a09a-d1c1c5453cc7" />
+Here are some performance metrics from the latest model, Model 5.
+<img width="999" height="467" alt="Screenshot 2025-08-05 at 9 03 04 PM" src="https://github.com/user-attachments/assets/df99aad3-f789-442d-8af7-d8134847d65c" />
+<img width="825" height="766" alt="Screenshot 2025-08-05 at 9 04 21 PM" src="https://github.com/user-attachments/assets/a50f7a53-2a9b-4fe4-8868-5a3ada981066" />
 
 
 I highly encourage you to open the Jupyter Notebook in Colab. I documented my progress with terms and definitions, model analyses, and metrics. This is an ongoing project, as there is always room for improvement. Come along and learn with me!
