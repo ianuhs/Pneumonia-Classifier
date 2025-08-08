@@ -15,7 +15,7 @@ After each training and evaluation session, I analyzed the performance to see wh
 <img width="985" height="585" alt="Screenshot 2025-08-08 at 1 16 20 AM" src="https://github.com/user-attachments/assets/4e36b432-a533-4fe0-ab56-396aa7d89f0f" />
 
 
-Here are some performance metrics from the latest model, Model 5.
+Here are some performance metrics from the latest model, Model 6.
 <img width="996" height="465" alt="Screenshot 2025-08-08 at 1 17 00 AM" src="https://github.com/user-attachments/assets/43b17924-5ba8-4b76-99a4-367428361322" />
 <img width="825" height="748" alt="Screenshot 2025-08-08 at 1 17 45 AM" src="https://github.com/user-attachments/assets/cdad89a5-e77b-4136-9ece-de26bed2628b" />
 
