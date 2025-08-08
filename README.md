@@ -11,15 +11,13 @@ This project helped me explore:
 - Understanding training/validation loss and accuracy curves
 
 After each training and evaluation session, I analyzed the performance to see what worked and what didn’t, and made adjustments accordingly. Below is a graph of how the models improved over time. 
-<img width="988" height="584" alt="Screenshot 2025-08-05 at 9 02 04 PM" src="https://github.com/user-attachments/assets/07f40fa7-54b6-4511-b626-f56025f6e2d6" />
-<img width="985" height="581" alt="Screenshot 2025-08-05 at 9 02 47 PM" src="https://github.com/user-attachments/assets/822b1748-f70e-4ecb-b36d-12b529121c30" />
+<img width="985" height="583" alt="Screenshot 2025-08-08 at 1 15 55 AM" src="https://github.com/user-attachments/assets/8076c0d8-a04c-421b-8828-594793e50156" />
+<img width="985" height="585" alt="Screenshot 2025-08-08 at 1 16 20 AM" src="https://github.com/user-attachments/assets/4e36b432-a533-4fe0-ab56-396aa7d89f0f" />
 
 
 Here are some performance metrics from the latest model, Model 5.
-<img width="999" height="467" alt="Screenshot 2025-08-05 at 9 03 04 PM" src="https://github.com/user-attachments/assets/df99aad3-f789-442d-8af7-d8134847d65c" />
-<img width="825" height="754" alt="Screenshot 2025-08-05 at 9 05 25 PM" src="https://github.com/user-attachments/assets/1f4413ac-b453-44c9-a5ce-e76fb69ef364" />
+<img width="996" height="465" alt="Screenshot 2025-08-08 at 1 17 00 AM" src="https://github.com/user-attachments/assets/43b17924-5ba8-4b76-99a4-367428361322" />
+<img width="825" height="748" alt="Screenshot 2025-08-08 at 1 17 45 AM" src="https://github.com/user-attachments/assets/cdad89a5-e77b-4136-9ece-de26bed2628b" />
 
 
-I highly encourage you to open the Jupyter Notebook in Colab. I documented my progress with terms and definitions, model analyses, and metrics. This is an ongoing project, as there is always room for improvement. Come along and learn with me!
-
-
+I highly encourage you to open the Jupyter Notebook in Colab. I documented my progress with terms and definitions, model analyses, and performance metrics. This is an ongoing project, as there is always room for improvement. Come along and learn with me!
