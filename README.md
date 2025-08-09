@@ -7,7 +7,8 @@ The models are trained using datasets from Kaggle: https://www.kaggle.com/datase
 This project helped me explore:
 - Transfer learning using pre-trained CNNs (ResNet)
 - Evaluation metrics like accuracy, precision, recall, F1 score, ROC AUC, confusion matrices, etc. 
-- Training techniques like data augmentation and learning rate tuning
+- Training techniques like data augmentation, weighted loss, and image preprocessing
+- Impact of tuning learning rate, epoch count, and network depth
 - Understanding training/validation loss and accuracy curves
 
 After each training and evaluation session, I analyzed the performance to see what worked and what didn’t, and made adjustments accordingly. Below is a graph of how the models improved over time. 
